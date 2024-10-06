@@ -1,4 +1,4 @@
-let n = 5;
+let n = 8;
 if(n % 2 == 0){
     console.log("Even")
 }
